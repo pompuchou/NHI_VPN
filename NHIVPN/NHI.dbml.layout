@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="NHI">
+  <DataContextMoniker Name="/NHIDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e9afdb6c-475e-49d2-bb5e-ab289f4be0b5" absoluteBounds="2.25, 2.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/NHIDataContext/tbl_download" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e384a442-138a-4cd0-b3b6-e9fb51217a07" absoluteBounds="2.265, 3.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
